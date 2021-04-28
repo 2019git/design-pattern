@@ -1,4 +1,4 @@
-package com.ww.jj.observerModel;
+package com.ww.jj.observer.model;
 
 import lombok.Data;
 

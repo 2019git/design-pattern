@@ -1,10 +1,9 @@
 package com.ww.jj;
 
-import com.ww.jj.observerModel.MessageObserver;
-import com.ww.jj.observerModel.MonitorObservable;
+import com.ww.jj.observer.model.MessageObserver;
+import com.ww.jj.observer.model.MonitorObservable;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 /**
