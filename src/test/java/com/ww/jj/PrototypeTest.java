@@ -1,7 +1,7 @@
 package com.ww.jj;
 
-import com.ww.jj.prototype.PrototypeManager;
-import com.ww.jj.prototype.Shape;
+import com.ww.jj.creational.pattern.prototype.PrototypeManager;
+import com.ww.jj.creational.pattern.prototype.Shape;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

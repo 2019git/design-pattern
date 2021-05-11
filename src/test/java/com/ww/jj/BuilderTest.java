@@ -1,7 +1,7 @@
 package com.ww.jj;
 
-import com.ww.jj.builder.model.Director;
-import com.ww.jj.builder.model.Product;
+import com.ww.jj.creational.pattern.builder.model.Director;
+import com.ww.jj.creational.pattern.builder.model.Product;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
