@@ -8,6 +8,6 @@ public class RealSubject implements Subject{
 
     @Override
     public void userRequest() {
-        System.out.println("访问真实主题具体实现方法，操作目标内容。");
+        System.out.println("静态代理---访问真实主题具体实现方法，操作目标内容。");
     }
 }
